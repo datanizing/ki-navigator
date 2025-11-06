@@ -1,3 +1,3 @@
-# KI Navigator 2024 - Workshop "Eigene Sprachmodelle"
+# KI Navigator 2025 - Workshop "Eigene Sprachmodelle"
 
 Begleitmaterial
